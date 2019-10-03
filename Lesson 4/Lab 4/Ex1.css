@@ -1,0 +1,27 @@
+body {background-color: blue;}
+
+
+
+.box {
+  margin-top: 20px;
+  margin-right: 10%;
+  margin-bottom: 20px;
+  margin-left: 10%;
+
+  border: 3px solid black;
+
+}
+.mypic{
+border-style: dashed;
+padding: 5px;
+margin: 10px;
+
+}
+
+#michael{
+  border: 1px dashed white;
+  padding: 5px;
+  margin: 0px
+
+
+}
