@@ -1,0 +1,51 @@
+body
+{background-color: snow;}
+
+
+
+h1, h2, h3,  {
+  font-family:serif;color:hotpink;
+  font-stretch: ultra-expanded;
+}
+
+.hood{
+  text-transform: uppercase;
+  font-size: 30px;
+color: green;
+}
+
+
+
+h1 {
+  text-align: center;
+font-stretch: extra-expanded;
+text-transform: uppercase;
+}
+
+.poemtext{
+  font-stretch: semi-expanded;
+  font-size: 30px;
+  text-transform:uppercase;
+text-align:center;
+}
+
+.boxmodel {
+  margin-top: 15px;
+  margin-right: 5%;
+  margin-bottom: 15px;
+  margin-left: 5%;
+border: 5px solid red;
+border-style: ridge;
+}
+.boxmodeldashed{
+  border-style: ridge;
+  border-color: indigo;
+  padding: 5px;
+  margin: 10px;
+}
+.boxmodel3{
+  border-style:dashed;
+  border-color: gold;
+  padding: 2px;
+  margin: 5px;
+}
