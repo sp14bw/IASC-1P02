@@ -1,0 +1,24 @@
+h1, p {color:white;}
+
+h1 {
+text-align: center;
+margin: 0%;
+background: red;
+max-width:77%;
+min-height:75px;
+
+}
+.line1 {
+background: green;
+margin: 0px;
+min-height: 500px;
+max-width: 77%;
+}
+
+.line2 {
+
+  background: blue;
+  margin: 0px;
+max-width:77%;
+min-height: 75px;
+}

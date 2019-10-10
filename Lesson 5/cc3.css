@@ -1,0 +1,38 @@
+body
+{
+  background-color: green;
+}
+
+#wrapper{
+width:900px;
+background-color:green;
+margin:0 auto;
+}
+
+#box1, #box2, #box3{
+  position: relative;
+}
+
+#box1{
+
+    float:left;
+  background-color: blue;
+  height: 280px;
+  width: 280px;
+}
+
+#box2{
+
+    float:right;
+      background-color: red;
+  height: 280px;
+  width: 280px;
+}
+
+#box3{
+  margin:auto;
+  clear:both;
+background-color:yellow;
+height: 280px;
+width: 280px;
+}
