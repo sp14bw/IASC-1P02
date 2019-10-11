@@ -33,12 +33,14 @@ width: 25%;
 }
 
 #thecontent{
-float:none;
+  float:left;
+  width:900px;
 background-color:blue;
 height: 900px;
 }
 
 #thefooter{
+  clear:both;
 background-color: yellow;
   height: 100px;
 }
