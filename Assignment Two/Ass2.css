@@ -1,14 +1,11 @@
 body
-{background-color: snow;}
-
-
+{background-color: snow;
 }
 
 h1, h2, h3,{
   font-family:serif;
   color:green;
-  font-stretch: ultra-expanded;
-}
+  }
 
 .hood{
   text-transform: uppercase;
@@ -35,12 +32,13 @@ text-align:center;
 
 }
 .boxmodel {
+  border-style: ridge;
   margin-top: 15px;
   margin-right: 5%;
   margin-bottom: 15px;
   margin-left: 5%;
-border: 10px solid red;
-border-style: ridge;
+border: 10px solid: red;
+
 }
 .boxmodeldashed{
   border-style: ridge;
