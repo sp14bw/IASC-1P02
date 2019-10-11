@@ -1,10 +1,19 @@
 body
-{background-color: snow;
+{background-color: purple;
 }
 
-h1, h2, h3,{
+#wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1,h2,h3, p{
   font-family:serif;
-  color:green;
+  color:white;
+  }
+
+  p{
+    color: yellow;
   }
 
 .hood{
@@ -15,7 +24,7 @@ color: royalblue;
 
 
 
-h1 {
+h1{
   text-align: center;
 font-stretch: extra-expanded;
 text-transform: uppercase;
@@ -27,28 +36,24 @@ text-transform: uppercase;
   text-transform:uppercase;
 text-align:center;
 }
-
-
-
-}
-.boxmodel {
-  border-style: ridge;
+.title{color:tomato}
+.box1 {
   margin-top: 15px;
   margin-right: 5%;
   margin-bottom: 15px;
   margin-left: 5%;
-border: 10px solid: red;
-
+border: 10px ridge white;
 }
-.boxmodeldashed{
+
+.box2{
   border-style: ridge;
-  border-color: indigo;
+  border-color: orange;
   padding: 5px;
   margin: 10px;
 }
-.boxmodel3{
+.box3{
   border-style:dashed;
-  border-color: gold;
+  border-color: tomato;
   padding: 2px;
   margin: 5px;
 }
