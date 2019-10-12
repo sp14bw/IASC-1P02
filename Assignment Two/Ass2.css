@@ -1,9 +1,9 @@
 body
-{background-color: purple;
+{background-color: darkorchid;
 }
 
 #wrapper {
-    width: 500px;
+    width: 800px;
     margin: 0 auto;
 }
 
@@ -19,7 +19,8 @@ h1,h2,h3, p{
 .hood{
   text-transform: uppercase;
   font-size: 30px;
-color: royalblue;
+color: green;
+text-decoration: underline;
 }
 
 
@@ -36,18 +37,36 @@ text-transform: uppercase;
   text-transform:uppercase;
 text-align:center;
 }
-.title{color:tomato}
+.title{
+  color:tomato
+}
+
+#mylogo{
+
+position: relative;
+float:right;
+width: 30%;
+height: 30%;
+}
+
+.mylogo{
+  position: relative;
+  margin-right:  30%;
+  float:right;
+  font-size: 40px;
+  text-transform: capitalize;
+}
 .box1 {
   margin-top: 15px;
   margin-right: 5%;
   margin-bottom: 15px;
   margin-left: 5%;
-border: 10px ridge white;
+border: 5px ridge lime;
 }
 
 .box2{
   border-style: ridge;
-  border-color: orange;
+  border-color: royalblue;
   padding: 5px;
   margin: 10px;
 }
