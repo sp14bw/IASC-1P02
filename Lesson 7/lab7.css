@@ -1,0 +1,81 @@
+#wrapper{
+
+    margin-right: auto;
+    margin-left:  auto;
+
+    max-width: 1500px;
+    padding-right: 10px;
+    padding-left:  10px;
+
+    }
+
+.centerpic{
+  display: block;
+  top: 100%;
+  margin-left: auto;
+  margin-right: auto;
+width: 50%;
+align: center;
+
+height: 400px;
+width: 400px;
+
+
+
+}
+
+.webmenu1{
+  float: left;
+  background-color: blue;
+  font-family: fantasy;
+  font-size: 40px;
+  word-spacing: 30px;
+  margin: auto;
+  clear: both;
+  margin-top: 100%;
+  position: absolute
+  top:10%;
+  right: 0%;
+}
+
+.webmenu2{
+  float: right;
+  background: lightgrey;
+  font-family: fantasy;
+  font-size: 40px;
+  word-spacing: 30px;
+  margin: auto;
+  clear: both;
+margin-top: 100%;
+position: relative;
+}
+.home{
+font-family: fantasy;
+font-style: italic;
+font-size: 40px
+
+}
+.mainheading{
+  text-align: center;
+  font-size: 100px;
+  font-family:monospace;
+  color: grey;
+  column-rule-color: blue;
+position: absolute;
+top: 50%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.Cheers{
+  opacity: 0.2;
+
+}
+
+#bottom{
+  text-align: center;
+  height: 50px;
+  clear:both;
+  background-color: lightgrey;
+
+}
