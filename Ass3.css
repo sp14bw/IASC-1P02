@@ -1,0 +1,30 @@
+body {
+background-color: whitesmoke;
+
+}
+
+#wrapper {
+    width: 1400px;
+    margin: 0 auto;
+}
+#wrapper{
+width:1200px;
+height: 100px;
+background-color:white;
+margin:0 auto;
+}
+
+#header{
+  text-align: center;
+}
+
+.headertwo{
+  width:1200px;
+  height: 10px;
+  background-color:lightgrey;
+
+}
+.heaven{
+  width:1200px;
+  height:100px;
+}
