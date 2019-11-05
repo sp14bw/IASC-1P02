@@ -1,0 +1,23 @@
+body{background-color: whitesmoke ;
+}
+
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+    .box1 {
+      width:90%;
+      border-style: ridge;
+      border-color: lightgrey;
+      padding: 5px;
+      margin: 10px;
+      height: 100px;
+    }
+
+    #logo{
+    position:absolute;
+    align-items: center;
+    width: 30%;
+    height: 30%;
+    }
