@@ -1,25 +1,114 @@
-body{background-color: whitesmoke ;
+body
+{
+background-color: lightgrey;
 }
 
-#wrapper {
-    width: 1000px;
-    margin: 0 auto;
-  }
+#wrapper
+{
+width: 1000px;
+margin: 0 auto;
+}
 
-    .box1 {
-      width:90%;
-      border-style: ridge;
-      border-color: lightgrey;
-      padding: 5px;
-      margin: 10px;
-      height: 100px;
-    }
+.address
+{
+position: relative;
+margin-left:350px;
+font-size: 50px;
+text-transform: capitalize;
+}
 
-    .webmenu{
-      font-family: sans-serif;
-      font-weight: bold;
-      text-align: center;
-      text-transform: uppercase;
-      text-transform: full-width;
-      word-spacing: 90px;
-    }
+.logo
+{
+position: relative;
+margin-left:350px;
+height: 15%;
+width: 15%;
+float: none;
+}
+
+hr#lineone
+{
+width: 95%;
+display: block;
+border-style: inset;
+;
+
+}
+
+.webmenu
+{
+font-family: sans-serif;
+font-weight: bold;
+text-align: center;
+text-transform: uppercase;
+text-transform: full-width;
+word-spacing: 50px;
+}
+
+#mainpic
+{
+width: 95%;
+height: 200px;
+margin-left: 50px;
+margin-bottom: 0%;
+}
+
+.box2
+{
+width: 45%;
+height: 970px;
+float: right;
+position: relative;
+border-style: inset;
+border-width: 1px;
+border-color: lightgrey;
+margin-right: 2%;
+
+}
+
+.box3
+{
+width:45%;
+height: 450px;
+float: left;
+position: relative;
+border-style: inset;
+border-width: 1px;
+border-color: lightgrey;
+padding: 2px;
+margin-left:  3.5%;
+margin-bottom: 5%;
+}
+
+.box4
+{
+width: 45%;
+height: 450px;
+float: left;
+position: relative;
+border-style: inset;
+border-width: 1px;
+border-color: lightgrey;
+padding: 2px;
+margin-left: 3.5%;
+margin-bottom: 5%;
+}
+
+.social
+{
+margin-top: 95%;
+text-align: center;
+margin-bottom: 0px;
+}
+
+#linetwo
+{
+width: 80%;
+display: block;
+margin-bottom: 5px;
+margin-top: 10px;
+margin-left: auto;
+margin-right: auto;
+border-style: inset;
+border-width: 1px;
+}
