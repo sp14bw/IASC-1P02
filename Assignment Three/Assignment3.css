@@ -1,6 +1,6 @@
 body
 {
-background-color: lightgrey;
+background-color: white;
 }
 
 #wrapper
@@ -9,21 +9,23 @@ width: 1000px;
 margin: 0 auto;
 }
 
-.address
+span
 {
-position: relative;
-margin-left:350px;
-font-size: 50px;
+font-size: 25px;
 text-transform: capitalize;
+margin-left: 30%;
+padding-top: 30px;
 }
 
 .logo
 {
-position: relative;
-margin-left:350px;
-height: 15%;
-width: 15%;
-float: none;
+height: 18%;
+width: 18%;
+margin-right: 25%;
+vertical-align: middle;
+float: right;
+padding: 20px;
+
 }
 
 hr#lineone
@@ -31,8 +33,6 @@ hr#lineone
 width: 95%;
 display: block;
 border-style: inset;
-;
-
 }
 
 .webmenu
@@ -47,16 +47,17 @@ word-spacing: 50px;
 
 #mainpic
 {
-width: 95%;
+width: 94%;
 height: 200px;
 margin-left: 50px;
 margin-bottom: 0%;
+opacity: 0.5;
 }
 
 .box2
 {
 width: 45%;
-height: 970px;
+height: 775px;
 float: right;
 position: relative;
 border-style: inset;
@@ -69,21 +70,20 @@ margin-right: 2%;
 .box3
 {
 width:45%;
-height: 450px;
+height: 370px;
 float: left;
 position: relative;
 border-style: inset;
 border-width: 1px;
 border-color: lightgrey;
-padding: 2px;
 margin-left:  3.5%;
-margin-bottom: 5%;
+margin-bottom: 2%;
 }
 
 .box4
 {
 width: 45%;
-height: 450px;
+height: 370px;
 float: left;
 position: relative;
 border-style: inset;
@@ -91,24 +91,16 @@ border-width: 1px;
 border-color: lightgrey;
 padding: 2px;
 margin-left: 3.5%;
-margin-bottom: 5%;
+margin-bottom: 2%;
 }
 
-.social
-{
-margin-top: 95%;
-text-align: center;
-margin-bottom: 0px;
-}
-
-#linetwo
-{
-width: 80%;
-display: block;
-margin-bottom: 5px;
-margin-top: 10px;
-margin-left: auto;
-margin-right: auto;
-border-style: inset;
-border-width: 1px;
+.box5{
+  width: 95%;
+  height: 100px;
+  float:right;
+  position: relative;
+  border-style:ridge;
+  border-width: 1px;
+  border-color: lightgrey;
+  margin-right: 2%;
 }
