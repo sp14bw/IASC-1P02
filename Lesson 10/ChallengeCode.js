@@ -1,5 +1,9 @@
-var elementOne = document.getElementById("boxOne");
-var elementOne = document.getElementById("boxTwo");
+function Name(){
+  document.getElementsByName("onLoad").innerHTML = onLoad;
+}
+
+var elementOne = document.getElementById("firstNumber");
+var elementTwo = document.getElementById("secondNumber");
 
 function sum() {
   var calculation = Number(elementOne.value) + Number(elementTwo.value);
