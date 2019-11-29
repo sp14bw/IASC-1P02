@@ -1,0 +1,191 @@
+body{
+  background-color: white;
+}
+h1{
+  font-size: 45px;
+  font-weight: lighter;
+  font-variant:small-caps;
+  text-align: center;
+  background: lightsteelblue;
+  max-width:77%;
+  min-height:75px;
+  position: relative;
+  left:100px;
+  color: #402d2d;
+  font-family: fantasy;
+  font-style: normal;
+}
+button{
+  font-size: 12px;
+  font-family: serif;
+  position: relative;
+  bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+margin-left: 75px;
+
+}
+.logo{
+  width: 60px;
+  height: 60px;
+  margin-top: 0px;
+  position: relative;
+  top:15px;
+}
+
+.nav{
+list-style: none;
+margin:0;
+padding:0;
+text-align: center;
+}
+
+.nav li{
+  display: inline;
+}
+
+.nav a{
+  display: inline-block;
+  padding: 10px;
+}
+
+.resume{
+  font-size: 20px;
+  font-family: serif;
+  position: relative;
+  bottom: 20px;
+  text-transform: lowercase;
+  letter-spacing: 10px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.ml12 {
+  font-weight: 200;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+}
+
+.ml12 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+h2{
+  margin-left: 230px;
+  padding-bottom: 50px;
+}
+.boxone, .boxtwo, .boxthree{
+font-size: 15px;
+}
+
+.boxone {
+margin: 0px;
+min-height: 420px;
+max-width: 77%;
+position: relative;
+left:100px;
+background: whitesmoke ;
+margin-bottom: 25px;
+padding-top: 25px;
+}
+
+.jobone{
+font-size: 13.5px;
+font-family: serif;
+text-transform:uppercase;
+text-align: center;
+font-style: normal;
+font-weight: bold;
+margin-left: 25px;
+letter-spacing: 1px;
+
+
+
+}
+ul {
+  text-align: left;
+  font-style: normal;
+}
+.boxtwo {
+margin: 0px;
+min-height: 220px;
+max-width: 77%;
+position: relative;
+left:100px;
+background:  #FFFDE6;
+margin-bottom: 25px;
+}
+.jobtwo{
+  color: slategrey;
+  font-size: 25px;
+  font-family:fantasy;
+  text-transform:capitalize;
+  text-align: center;
+  font-variant: small-caps;
+  font-weight: lighter;
+  padding-top: 15px;
+
+}
+.boxthree{
+  margin: 0px;
+  min-height: 300px;
+  max-width: 77%;
+  position: relative;
+  left:100px;
+  background: whitesmoke ;
+  margin-bottom: 25px;
+}
+.jobthree{
+  color: slategrey;
+  font-size: 25px;
+  font-family:fantasy;
+  text-transform:capitalize;
+  text-align: center;
+  font-variant: small-caps;
+  font-weight: lighter;
+  padding-top: 15px;
+}
+
+.titleone{
+  font-size: 25px;
+font-family: serif;
+  left:100px;
+  color: grey;
+  font-family: serif;
+margin-left: 30px;
+}
+
+
+
+
+  .organizations{
+    text-align: center;
+    font-size: 15px;
+    font-family: serif;
+    text-transform: lowercase;
+    font-weight: lighter;
+    font-variant:small-caps;
+    color: grey;
+  }
+
+
+  .footer {
+  margin: 0px;
+  max-width:77%;
+  min-height: 75px;
+  position: relative;
+  left:100px;
+  background: lightsteelblue;
+  font-size: 10px;
+  font-family: serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: lighter;
+  font-variant:small-caps;
+  text-align: center;
+  padding-top: 37.5px;
+  color: black;
+  font-style: normal;
+  }

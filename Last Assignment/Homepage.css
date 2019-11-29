@@ -1,0 +1,151 @@
+body{
+  background-color: white;
+}
+h1{
+  font-size: 45px;
+  font-weight: lighter;
+  font-variant:small-caps;
+  text-align: center;
+  background: lightsteelblue;
+  max-width:77%;
+  min-height:75px;
+  position: relative;
+  left:100px;
+  color: #402d2d;
+  font-family: fantasy;
+  font-style: normal;
+}
+
+h2{
+  font-size: 40px;
+  font-weight: lighter;
+  font-variant:small-caps;
+  text-align: center;
+  font-family: serif;
+  font-style: normal;
+}
+
+.logo{
+  width: 60px;
+  height: 60px;
+  margin-top: 0px;
+  position: relative;
+  top:15px;
+}
+.nav{
+list-style: none;
+margin:0;
+padding:0;
+text-align: center;
+}
+
+.nav li{
+  display: inline;
+}
+
+.nav a{
+  display: inline-block;
+  padding: 10px;
+}
+
+
+.resume{
+  font-size: 20px;
+  font-family: serif;
+  position: relative;
+  bottom: 20px;
+  text-transform: lowercase;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+.boxone {
+margin: 0px;
+min-height: 500px;
+max-width: 77%;
+position: relative;
+left:100px;
+background: whitesmoke;
+margin-bottom: 25px;
+}
+.boxone{
+  font-size: 50px;
+  font-weight: lighter;
+  font-variant:small-caps;
+  text-align: center;
+  font-family: fantasy;
+
+}
+
+.ms{
+  font-size: 15px;
+  font-family: serif;
+
+text-align: center;
+position: relative;
+right: 35px;
+}
+
+
+#topnav a {
+  display: block;
+  color: red;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.footer {
+margin: 0px;
+max-width:77%;
+min-height: 75px;
+position: relative;
+left:100px;
+background: lightsteelblue;
+font-size: 10px;
+font-family: serif;
+text-transform: uppercase;
+letter-spacing: 5px;
+font-weight: lighter;
+font-variant:small-caps;
+text-align: center;
+padding-top: 37.5px;
+color: black;
+font-style: normal;
+}
+
+.ml5 {
+  position: relative;
+  font-weight: 300;
+  font-size: 4.5em;
+  color: #402d2d;
+}
+
+.ml5 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.1em;
+  padding-right: 0.05em;
+  padding-bottom: 0.15em;
+  line-height: 1em;
+}
+
+.ml5 .line {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 3px;
+  width: 100%;
+  background-color: #402d2d;
+  transform-origin: 0.5 0;
+}
+
+
+
+.ml5 .letters {
+  display: inline-block;
+  opacity: 0;
+
+}
